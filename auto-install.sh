@@ -38,7 +38,7 @@ pgsql(){
 		-O /tmp/config-pgsql.sh
 	source /tmp/config-pgsql.sh
 	rm /tmp/config-pgsql.sh
-	config_pgsql;
+	config_pgsql $1;
 }
 
 queue() {
@@ -53,7 +53,7 @@ rbenv(){
 		-O /tmp/config-rbenv.sh
 	source /tmp/config-rbenv.sh
 	rm /tmp/config-rbenv.sh
-	config_rbenv;
+	config_rbenv $1;
 }
 
 ruby(){
@@ -61,7 +61,7 @@ ruby(){
 		-O /tmp/config-ruby.sh
 	source /tmp/config-ruby.sh
 	rm /tmp/config-ruby.sh
-	config_ruby;
+	config_ruby $1 $2;
 }
 
 sshd(){
@@ -77,7 +77,7 @@ user(){
 		-O /tmp/config-user.sh
 	source /tmp/config-user.sh
 	rm /tmp/config-user.sh
-	config_user;
+	config_user $1;
 }
 
 vim(){
