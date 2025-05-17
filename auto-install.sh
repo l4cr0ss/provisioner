@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script framework for virtual machine provisioning.
-# Author: Jefferson Hudson
+# Author: l4cr0ss
 
 #---------------------------#
 # Function defs and imports #

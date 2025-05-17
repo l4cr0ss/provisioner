@@ -1,6 +1,6 @@
 #!/bin/bash
 # Create a new user with a home directory and no password.
-# Author: Jefferson Hudson
+# Author: l4cr0ss
 
 config_user()
 {

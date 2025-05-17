@@ -1,6 +1,6 @@
 #!/bin/bash
 # Install Ruby using rbenv
-# Author: Jefferson Hudson
+# Author: l4cr0ss
 
 # Parameters:
 #	$1 == The version of Ruby to install (e.g. "2.3.1")

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Install global vimrc file
-# Author: Jefferson Hudson
+# Author: l4cr0ss
 
 # Assumptions:
 #   1. The file server hosts a vim configuration in the expected location.

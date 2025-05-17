@@ -1,6 +1,6 @@
 #!/bin/bash
 # Install Postgresql along with prebuilt configuration files
-# Author: Jefferson Hudson
+# Author: l4cr0ss
 
 # Parameters:
 #   $1 == The version of Postgresql to install (e.g. "9.5")

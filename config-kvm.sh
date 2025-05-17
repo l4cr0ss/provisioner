@@ -1,6 +1,6 @@
 #!/bin/bash
 # Download and configure KVM
-# Author: Jefferson Hudson
+# Author: l4cr0ss
 
 # Assumptions:
 #   1. Machine being provisioned runs Ubuntu 16.04 and has stated packges available in 
